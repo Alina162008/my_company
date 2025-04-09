@@ -1,0 +1,4 @@
+body{background-color: aqua;}
+.one{display: flex; flex-wrap: wrap; justify-content: center; align-items: center;  padding-top: 50px;}
+img{width: 450px}
+.one{display: flex;flex-wrap: wrap; justify-content:center; align-items: center; padding: left 60px;}
